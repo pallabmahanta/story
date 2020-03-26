@@ -1,3 +1,4 @@
-my story. best time. commit1. changes after commit1. 
+new my story. best time. commit1. changes after new
 
-
+new2
+new2
